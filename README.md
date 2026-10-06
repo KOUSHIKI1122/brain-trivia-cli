@@ -1,3 +1,4 @@
+![Brain Trivia](banner.png)
 # Brain Trivia CLI
 
 A colourful neuroscience quiz you can play in your terminal. Sixteen questions on neurons, brain regions, neurotransmitters and famous discoveries, with a fun fact after every answer.
